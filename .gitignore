@@ -1,0 +1,5 @@
+# ignore the following files extensions
+
+*.DS_Store
+*.ipynb_checkpoints/
+*.ipynb
